@@ -1,0 +1,11 @@
+# Actualizar pip
+py -m pip install --upgrade pip
+
+# Instalar Django
+py -m pip install django
+
+# Instalar RestFramework
+pip install django djangorestframework
+
+# Instalar Requests
+pip install requests
